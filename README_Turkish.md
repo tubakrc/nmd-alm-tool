@@ -76,7 +76,3 @@ CSV yükleyebilirsiniz:
 - **Pass-through regresyonu**: Basit OLS first-difference modeli kullanılmıştır.
   Daha gelişmiş bir yaklaşım, kısa/uzun dönem pass-through'u ayıran bir
   Error Correction Model (ECM) olabilir.
-
-## Lisans
-
-MIT
