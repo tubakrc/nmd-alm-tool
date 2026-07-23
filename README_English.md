@@ -123,6 +123,3 @@ NMD behavioral modeling is one of the most judgment-intensive assumptions in IRR
 
 ---
 
-## License
-
-MIT
