@@ -28,7 +28,7 @@ from eve_calculator import compare_contractual_vs_behavioral
 
 # ----------------------------- Sayfa Ayarları -----------------------------
 st.set_page_config(
-    page_title="NMD Davranışsal Modelleme",
+    page_title="NMD Davranışsal Modelleme Aracı",
     layout="wide",
     initial_sidebar_state="expanded",
 )
